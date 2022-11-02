@@ -102,3 +102,6 @@ dist
 
 # TernJS port file
 .tern-port
+
+# csv file
+business-employment-data-june-2022-quarter-csv 

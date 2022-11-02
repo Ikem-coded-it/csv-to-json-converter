@@ -1,0 +1,20 @@
+{
+  "name": "csv-to-json-converter",
+  "version": "1.0.0",
+  "description": "Converts a csv file to CHIP-0007 json format",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ikem-coded-it/csv-to-json-converter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ikem-coded-it/csv-to-json-converter/issues"
+  },
+  "homepage": "https://github.com/Ikem-coded-it/csv-to-json-converter#readme"
+}
