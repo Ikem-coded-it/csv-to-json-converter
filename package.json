@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/Ikem-coded-it/csv-to-json-converter/issues"
   },
-  "homepage": "https://github.com/Ikem-coded-it/csv-to-json-converter#readme"
+  "homepage": "https://github.com/Ikem-coded-it/csv-to-json-converter#readme",
+  "dependencies": {
+    "csv-parse": "^5.3.1",
+    "csvtojson": "^2.0.10",
+    "json2csv": "^5.0.7"
+  }
 }
